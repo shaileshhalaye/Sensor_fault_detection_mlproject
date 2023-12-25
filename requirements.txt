@@ -1,6 +1,15 @@
 pandas
 numpy
+xgboost
 scikit-learn
+imblearn==0.0
 pymongo
 setuptools
+python-dotenv
+dill
+PyYAML
+datetime
+dotenv
+logging
+apache-airflow
 -e .
